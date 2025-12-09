@@ -339,7 +339,7 @@ main {
   color: #000000;
 }
 .e-block-text {
-  font-weight: 500;
+  font-weight: 400;
   font-size: 16px;
   line-height: 20px;
   color: #797b89;
@@ -813,7 +813,7 @@ main {
     margin-left: 4px;
   }
   .e-latest-research-section {
-    margin-top: 70px;
+    margin-top: 100px;
   }
   .e-latest-items {
     margin-top: 20px;
@@ -827,7 +827,7 @@ main {
   }
 
   .e-footer {
-    margin-top: 20px;
+    margin-top: 50px;
     padding: 35px 0 30px;
   }
   .e-footer-body {
